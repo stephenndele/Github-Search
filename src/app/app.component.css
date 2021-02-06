@@ -1,9 +1,9 @@
 .jumbotron {
   text-align: center;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Helvetica Neue";
   border-radius: 30px;
   background-color: rgb(84, 84, 189);
-  opacity: 0.9;
+  opacity: 0.5;
   margin: 10px;
 }
 
@@ -25,5 +25,5 @@ body {
 }
 
 .container{
-  opacity: 0.85;
+  opacity: 0.95;
 }
