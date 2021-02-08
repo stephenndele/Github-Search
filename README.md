@@ -17,6 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * HTML
 * Type Script
 * Bootstrap
+* Angular
 
 ---
 
